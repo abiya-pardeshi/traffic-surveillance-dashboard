@@ -1,0 +1,11 @@
+junction_id,name,zone,lat,lon,camera_id,camera_status,uptime_pct,free_flow_speed
+J01,Market Circle,Central,15.4989,73.8278,CAM01,Online,97.8,50
+J02,Bus Stand Junction,Central,15.4909,73.83,CAM02,Online,95.3,50
+J03,River Bridge,North,15.506,73.835,CAM03,Online,98.4,50
+J04,Seaface Circle,South,15.483,73.8085,CAM04,Online,97.2,50
+J05,Airport Road,South,15.454,73.81,CAM05,Online,92.7,50
+J06,College Junction,Central,15.485,73.818,CAM06,Online,99.3,50
+J07,Hospital Circle,Central,15.488,73.826,CAM07,Online,97.7,50
+J08,Station Junction,East,15.502,73.834,CAM08,Online,97.9,50
+J09,Flyover North,North,15.527,73.824,CAM09,Offline,93.0,50
+J10,Causeway East,East,15.504,73.865,CAM10,Maintenance,95.4,50
