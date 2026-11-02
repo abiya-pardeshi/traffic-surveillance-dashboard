@@ -9,10 +9,10 @@ An interactive dashboard for a traffic and surveillance monitoring system, built
 | Management | Management | Are we improving, is revenue being collected, and what comes next? |
 
 **Links**
-- Dashboard (Looker Studio, public): `https://datastudio.google.com/reporting/6b282f9f-027a-4a6f-9b0d-07e019246107`
+- Dashboard (Looker Studio, public): https://datastudio.google.com/reporting/6b282f9f-027a-4a6f-9b0d-07e019246107
 - Dataset and code (GitHub): https://github.com/abiya-pardeshi/traffic-surveillance-dashboard
-- Colab notebook (data generation and forecasting): `https://colab.research.google.com/drive/1QjAWt4f3teLWihePISwAlS3Ns-EXp1wb?usp=sharing`
-- Video walkthrough (2 to 3 minutes): `https://www.loom.com/share/94dc454661a54a1792978012d1bf8fc0`
+- Colab notebook (data generation and forecasting): https://colab.research.google.com/drive/1QjAWt4f3teLWihePISwAlS3Ns-EXp1wb?usp=sharing
+- Video walkthrough (2 to 3 minutes): https://www.loom.com/share/94dc454661a54a1792978012d1bf8fc0
 
 **Repository structure**
 
