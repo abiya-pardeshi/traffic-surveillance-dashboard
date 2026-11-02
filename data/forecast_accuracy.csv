@@ -1,0 +1,5 @@
+metric,method,MAPE_%,MAE
+Daily Violations,Seasonal Naive (baseline),11.31,11.6
+Daily Violations,Holt-Winters,11.3,11.89
+Daily Vehicle Volume,Seasonal Naive (baseline),9.32,11040.13
+Daily Vehicle Volume,Holt-Winters,10.3,12182.93
